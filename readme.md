@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://huailiang.github.io/" target="_blank">
-    	<img src="https://huailiang.github.io/img/python.jpeg" width="200" height="140">
+    	<img src="https://huailiang.github.io/img/avatar-Alex.jpg" width="200" height="140">
     </a>
     <a href="https://opencv.org" target="_blank">
     	<img src="https://huailiang.github.io/img/in-post/post-tf/opencv.png" width="200" height="150">
