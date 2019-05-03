@@ -1,13 +1,13 @@
 <p align="center">
      <a href="https://huailiang.github.io/" target="_blank">
-    	<img src="https://huailiang.github.io/img/avatar-Alex.jpg" width="160" height="140">
+    	<img src="https://huailiang.github.io/img/author.jpg" width="160" height="140">
     </a>
 </p>
 
 
 <b>视频中人物提取人脸特征进行识别</b>
 
-对应的博客地址：https://huailiang.github.io/2018/04/06/videoreg/
+对应的博客地址：https://huailiang.github.io/blog/2018/videoreg/
 
 Keras
 
